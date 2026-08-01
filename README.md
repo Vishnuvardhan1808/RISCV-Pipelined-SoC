@@ -61,7 +61,3 @@ The project is structured modularly. The `soc_top.v` file acts as the top-level 
      └── 📄 axi4_memory_controller.v (main_memory)
 📂 Simulation Sources
  └── 📄 tb_soc_top.v
-![Simulation Waveform](Images/Screenshot 2026-07-22 165600.png)
-![Simulation Waveform](Images/Screenshot 2026-07-22 165856.png)
-![Simulation Waveform](Images/Screenshot 2026-07-22 170017.png)
-![Simulation Waveform](Images/Screenshot 2026-07-22 170554.png)
