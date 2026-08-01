@@ -1,3 +1,7 @@
+<img width="721" height="331" alt="Screenshot 2026-07-22 165856" src="https://github.com/user-attachments/assets/f5a6ce2f-aefa-4ba9-8134-af179c726d85" />
+<img width="562" height="918" alt="Screenshot 2026-07-22 170554" src="https://github.com/user-attachments/assets/80fa4b09-e724-446c-aef4-cebc28f8d489" />
+<img width="1605" height="687" alt="Screenshot 2026-07-22 170017" src="https://github.com/user-attachments/assets/31801198-958b-4218-8c3a-d58d6e25d647" />
+<img width="1615" height="718" alt="Screenshot 2026-07-22 165600" src="https://github.com/user-attachments/assets/21ae9fe8-153b-4de9-aa02-bf7d26907ee5" />
 # 32-bit Pipelined RISC-V SoC with Direct-Mapped Cache & AXI4 Memory Subsystem
 
 ## 📌 Project Overview
